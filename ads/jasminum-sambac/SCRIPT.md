@@ -40,3 +40,15 @@
 
 ## Note on the brand
 Chloé is a real, trademarked brand. The contest brief says "any fictional brand, product, service or idea", so check the official rules before submitting. If using the real brand is a problem, a fictional stand-in works with the same script, e.g. **"Maison Yasmin — Jasminum Sambac"**.
+
+## Generated assets (OpenArt, round 1)
+| Asset | Link |
+|---|---|
+| Yasmin reference | https://cdn.openart.ai/openart-ai/production/2026-09/create-image/OEanq5Ze25xoQOeBUYyh/image_1790803480678_16fca363_1790803480805_48996d68.png |
+| Sister reference | https://cdn.openart.ai/openart-ai/production/2026-09/create-image/OEanq5Ze25xoQOeBUYyh/image_1790803481384_c9dfb0ed_1790803481991_153ee1da.png |
+| Perfume bottle reference | https://cdn.openart.ai/openart-ai/production/2026-09/create-image/OEanq5Ze25xoQOeBUYyh/image_1790803476528_82762ad9_1790803477501_ab105d5a.png |
+| Clip A: gift reveal (9s) | https://cdn.openart.ai/openart-ai/production/2026-09/create-video/OEanq5Ze25xoQOeBUYyh/cgt-20261001052557-bwh9n_1790803949396_84cf7974.mp4 |
+| Clip B: spray and jasmine dimension (7s) | https://cdn.openart.ai/openart-ai/production/2026-09/create-video/OEanq5Ze25xoQOeBUYyh/cgt-20261001052602-26jra_1790803826317_127221b6.mp4 |
+| Clip C: New York walk and product hero (14s) | https://cdn.openart.ai/openart-ai/production/2026-09/create-video/OEanq5Ze25xoQOeBUYyh/cgt-20261001052602-dh1sg_1790804065227_eeb9b51f.mp4 |
+
+Total runtime: 9.06 + 7.07 + 14.08 = **30.2s** (1920×1080, 24fps, with audio).

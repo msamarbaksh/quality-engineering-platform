@@ -52,3 +52,29 @@ Chloé is a real, trademarked brand. The contest brief says "any fictional brand
 | Clip C: New York walk and product hero (14s) | https://cdn.openart.ai/openart-ai/production/2026-09/create-video/OEanq5Ze25xoQOeBUYyh/cgt-20261001052602-dh1sg_1790804065227_eeb9b51f.mp4 |
 
 Total runtime: 9.06 + 7.07 + 14.08 = **30.2s** (1920×1080, 24fps, with audio).
+
+---
+
+# Extended cut: 60 seconds (round 2)
+
+## What the 30s version was missing
+1. **An emotional "why."** The tagline promises "the jasmine from *your* garden", but the 30s cut never shows that garden. The new version opens on the two sisters as little girls picking jasmine at home, so the gift means "take home with you", and it ends back in that garden.
+2. **A hook in the first 3 seconds.** It now opens on a macro of a jasmine flower with a voice-over line, not a party wide shot.
+3. **More build-up.** A subway scene sits between the apartment and the street, so the magic spreads step by step: one room, then one subway car, then one street, then the whole avenue.
+4. **A clean packshot end card.** A dedicated product shot with space for the title, so the brand lands clearly.
+5. **Contest rules.** Entries close Sept 30, 2026, 11:59 PM PDT. You submit the ad title, a link to a public social media post with the final ad, and a category. Declare **Seedance** (2.5) as the model for the Model Award, since every clip was made with it.
+
+## 60s edit order
+| Order | Clip | Source length | Use in edit | Running time |
+|---|---|---|---|---|
+| 1 | D: childhood garden hook (VO: "When we were little, our garden always smelled of jasmine.") | 6s | full | 0:00–0:06 |
+| 2 | A: birthday gift reveal | 9s | full | 0:06–0:15 |
+| 3 | B: morning spray, jasmine room | 7s | full | 0:15–0:22 |
+| 4 | E: subway blooms | 8s | full | 0:22–0:30 |
+| 5 | C: NYC walk and strangers step in | 14s | first ~10s (cut before its VO/product shot) | 0:30–0:40 |
+| 6 | F: aerial finale, then the sister in the garden | 12s | full | 0:40–0:52 |
+| 7 | G: product packshot + VO tagline | 8s | full; add the title as a text overlay | 0:52–1:00 |
+
+End title overlay (add in the editor, since typed text is always sharp):
+> **Chloé Atelier des Fleurs — Jasminum Sambac**
+> *The jasmine from your garden, wherever you go.*

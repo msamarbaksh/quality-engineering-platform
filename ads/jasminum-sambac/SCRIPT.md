@@ -78,3 +78,11 @@ Total runtime: 9.06 + 7.07 + 14.08 = **30.2s** (1920×1080, 24fps, with audio).
 End title overlay (add in the editor, since typed text is always sharp):
 > **Chloé Atelier des Fleurs — Jasminum Sambac**
 > *The jasmine from your garden, wherever you go.*
+
+## Generated assets (round 2)
+| Clip | Length | Link |
+|---|---|---|
+| D: childhood garden hook | 6.1s | https://cdn.openart.ai/openart-ai/production/2026-09/create-video/OEanq5Ze25xoQOeBUYyh/cgt-20261001062408-1ozsx_1790807493001_acbe0911.mp4 |
+| E: subway blooms | 8.1s | https://cdn.openart.ai/openart-ai/production/2026-09/create-video/OEanq5Ze25xoQOeBUYyh/cgt-20261001062408-cnrfz_1790807302011_52cc9a6a.mp4 |
+| F: aerial finale + sister in garden | 12.1s | https://cdn.openart.ai/openart-ai/production/2026-09/create-video/OEanq5Ze25xoQOeBUYyh/cgt-20261001062415-ayeq0_1790807381359_76995cbf.mp4 |
+| G: product packshot + VO | 8.1s | https://cdn.openart.ai/openart-ai/production/2026-09/create-video/OEanq5Ze25xoQOeBUYyh/cgt-20261001062414-ate9i_1790807660998_15504513.mp4 |
